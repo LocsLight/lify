@@ -1,6 +1,6 @@
 import React from 'react';
-import './css/App.css';
-import Header from './lifyHeader'
+import './Root/css/App.css';
+import Header from './Root/Header/lifyHeader.js'
 
 const App = () => {
   return (
